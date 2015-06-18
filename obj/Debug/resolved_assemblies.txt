@@ -1,0 +1,2 @@
+C:\Visual Studio Projects\IEMHRDroidApp\IEMHRDroidApp\bin\Debug\IEMHRDroidApp.dll
+C:\Visual Studio Projects\IEMHRDroidApp\packages\Xamarin.Android.Support.v4.22.1.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll
